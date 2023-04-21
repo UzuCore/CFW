@@ -14,7 +14,7 @@
 - pcsx_rearmed 코어 럼블(진동) 추가
 - swanstation 코어 럼블(진동) 추가
 - mgba 코어 럼블(진동) 추가
-- gambattle 코어 럼블(진동) 추가
+- gambatte 코어 럼블(진동) 추가
 - pokemini 코어 럼블(진동) 추가
 - parallel-n64 코어 럼블(진동) 추가
 
