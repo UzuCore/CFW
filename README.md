@@ -11,12 +11,12 @@
 - 소소한 최적화
 - 에픽 노안테마 추가
 - 보너스 프로그램 추가
-- pcsx_rearmed 코어 럼블(진동) 추가
-- swanstation 코어 럼블(진동) 추가
-- mgba 코어 럼블(진동) 추가
-- gambatte 코어 럼블(진동) 추가
-- pokemini 코어 럼블(진동) 추가
-- parallel-n64 코어 럼블(진동) 추가
+- pcsx_rearmed 럼블(진동) 추가
+- swanstation 럼블(진동) 추가
+- mgba 럼블(진동) 추가
+- gambatte 럼블(진동) 추가
+- pokemini 럼블(진동) 추가
+- parallel-n64 럼블(진동) 추가
 
 
 ## 네트워크 접속
