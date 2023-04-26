@@ -17,7 +17,7 @@
  - gambatte 럼블(진동) 추가
  - pokemini 럼블(진동) 추가
  - parallel-n64 럼블(진동) 추가
-
+ - PPSSPP 폰트 패치 메뉴
 
 ## 네트워크 접속
  - 아이디 : root
