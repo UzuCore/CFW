@@ -19,6 +19,7 @@
  - parallel-n64 럼블(진동) 추가
  - PPSSPP 폰트 패치 메뉴
  - flycast2021 코어 추가
+ - 
  ~~- FAT32 지원 추가~~
  ~~- PortMaster 내장~~
 
