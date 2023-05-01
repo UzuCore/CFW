@@ -19,7 +19,7 @@
  - [x] parallel-n64 럼블(진동) 추가
  - [x] PPSSPP 폰트 패치 메뉴
  - [x] flycast2021 코어 ~~럼블(진동)~~ 추가
- - [ ] FAT32 지원 추가
+ - [ ] 슬롯2 FAT32 지원 추가
  - [ ] PortMaster 내장
 
 ## 네트워크 접속
