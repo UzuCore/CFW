@@ -2,25 +2,25 @@
 
 ## 적용사항
  - [x] 언어 및 국가/시간대 한국으로 변경
- - [ ] 시스템 폰트 추가
- - ES 폰트 변경 및 한글로 설정
- - RA XMB, OZONE, GLUI 폰트 변경 및 한글로 설정
- - 프로그램 메뉴 한글화
- - PPSSPP SA 한글로 설정
- - 로고 변경
- - 소소한 최적화
- - 에픽 노안테마 추가
- - 보너스 프로그램 추가
- - pcsx_rearmed 럼블(진동) 추가
- - swanstation 럼블(진동) 추가
- - mgba 럼블(진동) 추가
- - gambatte 럼블(진동) 추가
- - pokemini 럼블(진동) 추가
- - parallel-n64 럼블(진동) 추가
- - PPSSPP 폰트 패치 메뉴
- - flycast2021 코어 ~~럼블(진동)~~ 추가
- - ~~FAT32 지원 추가~~
- - ~~PortMaster 내장~~
+ - [x] 시스템 폰트 추가
+ - [x] ES 폰트 변경 및 한글로 설정
+ - [x] RA XMB, OZONE, GLUI 폰트 변경 및 한글로 설정
+ - [x] 프로그램 메뉴 한글화
+ - [x] PPSSPP SA 한글로 설정
+ - [x] 로고 변경
+ - [x] 소소한 최적화
+ - [x] 에픽 노안테마 추가
+ - [x] 보너스 프로그램 추가
+ - [x] pcsx_rearmed 럼블(진동) 추가
+ - [x] swanstation 럼블(진동) 추가
+ - [x] mgba 럼블(진동) 추가
+ - [x] gambatte 럼블(진동) 추가
+ - [x] pokemini 럼블(진동) 추가
+ - [x] parallel-n64 럼블(진동) 추가
+ - [x] PPSSPP 폰트 패치 메뉴
+ - [x] flycast2021 코어 ~~럼블(진동)~~ 추가
+ - [ ] FAT32 지원 추가
+ - [ ] PortMaster 내장
 
 ## 네트워크 접속
  - 아이디 : root
