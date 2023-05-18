@@ -1,8 +1,8 @@
 # JELO+ELEC 커스텀 20230519
 
 ## 다운로드
-https://github.com/UzuCore/JELOS/releases
-https://github.com/UzuCore/AmberELEC/releases
+- https://github.com/UzuCore/JELOS/releases
+- https://github.com/UzuCore/AmberELEC/releases
 
 ## 적용사항
  - [x] 언어 및 국가/시간대 한국으로 변경
