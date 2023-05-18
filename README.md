@@ -1,5 +1,9 @@
 # JELO+ELEC 커스텀 20230519
 
+## 다운로드
+https://github.com/UzuCore/JELOS/releases
+https://github.com/UzuCore/AmberELEC/releases
+
 ## 적용사항
  - [x] 언어 및 국가/시간대 한국으로 변경
  - [x] 시스템 폰트 추가
@@ -38,3 +42,4 @@
  - 빨리감기: R2
 
 참고: 일부 장치에서는 X와 Y가 반전되며 이는 정상적인 동작입니다.
+
