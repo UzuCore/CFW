@@ -1,5 +1,8 @@
 # DC CUSTOM (JELOS & AMBERELEC)
 
+## 소개
+### 다양한 기기를 지원하는 JELOS 및 AMBERELEC OS를 현지화 및 제 입맛에 맞게 수정한 버전입니다.  
+
 ## 다운로드
 - https://github.com/UzuCore/JELOS/releases
 - https://github.com/UzuCore/AmberELEC/releases
