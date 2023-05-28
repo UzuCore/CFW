@@ -1,4 +1,4 @@
-# JELO+ELEC 커스텀
+# JELOS&AMBERELEC DC 커스텀
 
 ## 다운로드
 - https://github.com/UzuCore/JELOS/releases
