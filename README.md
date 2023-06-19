@@ -26,8 +26,8 @@
  - [x] gambatte 럼블(진동) 추가
  - [x] pokemini 럼블(진동) 추가
  - [x] parallel-n64 럼블(진동) 추가
- - [x] PPSSPP 폰트 패치 메뉴
  - [x] flycast2021 코어 럼블(진동) 추가
+ - [x] PPSSPP 폰트 패치 메뉴
  - [x] 슬롯2 FAT32 지원 추가
  - [x] 포트마스터 내장
  - [x] 포트마스터 미지원 게임 추가
